@@ -21,7 +21,7 @@ This is also sample solution for the [task-manager](https://roadmap.sh/projects/
 1.  **Python:** Ensure you have Python 3.10 or later installed on your system. You can check your Python version by running:
 
     ```bash
-    python3 --version
+    python --version (or python3 if you are using linux/macOS)
     ```
 2. **Clone repository:** Clone repository with this project to your local system
     ```bash
